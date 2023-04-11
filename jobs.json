@@ -78,7 +78,7 @@
     "address": "Dhaka, Bangladesh",
     "contactPhone": "+8801712345678",
     "employmentType": "Full-time",
-    "responsibility": "Preparing and maintaining financial records. Develop and implement sales strategies, train and manage sales team, meet revenue targets, identify new business opportunities.",
+    "responsibilities": "Preparing and maintaining financial records. Develop and implement sales strategies, train and manage sales team, meet revenue targets, identify new business opportunities.",
     "educationalRequirements": "Bachelor's degree in Accounting or related field..."
   },
   {
@@ -94,7 +94,7 @@
     "address": "456 Elm St, Anytown, USA",
     "contactPhone": "+1 (555) 234-5678",
     "employmentType": "Full-time",
-    "responsibility": "Designing, developing, and testing software applications. Develop and implement sales strategies, train and manage sales team, meet revenue targets, identify new business opportunities.",
+    "responsibilities": "Designing, developing, and testing software applications. Develop and implement sales strategies, train and manage sales team, meet revenue targets, identify new business opportunities.",
     "educationalRequirements": "Bachelor's degree in Computer Science or a related field"
   },
   {
@@ -110,7 +110,7 @@
     "address": "123 Main St, Anytown, USA",
     "contactPhone": "+1 (555) 123-4567",
     "employmentType": "Full-time",
-    "responsibility": "Designing, developing, and maintaining software applications. Develop and implement sales strategies, train and manage sales team, meet revenue targets, identify new business opportunities.",
+    "responsibilities": "Designing, developing, and maintaining software applications. Develop and implement sales strategies, train and manage sales team, meet revenue targets, identify new business opportunities.",
     "educationalRequirements": "Bachelor's degree in Computer Science or a related field"
   },
   {
@@ -122,11 +122,11 @@
     "companyLogo": "https://i.ibb.co/w704HTR/Group-10021.png",
     "jobRequirements": "We are looking for a candidate with the following qualifications:\n- Bachelor's degree in Computer Science or a related field\n- 3+ years of experience in software development\n- Proficiency in at least one programming language such as Java, Python, or C#\n- Experience with database technologies such as SQL or MongoDB\n- Familiarity with software development tools such as Git or JIRA\n- Excellent problem-solving and critical thinking skills\n- Strong communication and interpersonal abilities",
     "jobStatus": "Remote",
-    "contactEmail": "janedoe@innovativesoftware.com",
+    "contactEmail": "janedoe@gmail.com",
     "address": "Dhaka, Bangladesh",
     "contactPhone": "+1 (555) 123-7890",
     "employmentType": "Full-time",
-    "responsibility": "Creating and testing software applications. Develop and implement sales strategies, train and manage sales team, meet revenue targets, identify new business opportunities.",
+    "responsibilities": "Creating and testing software applications. Develop and implement sales strategies, train and manage sales team, meet revenue targets, identify new business opportunities.",
     "educationalRequirements": "Bachelor's degree in Computer Science or a related field"
   }
 ]
